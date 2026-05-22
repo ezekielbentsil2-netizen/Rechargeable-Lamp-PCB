@@ -35,8 +35,8 @@ are unavailable.
 - KiCad (schematic design & PCB layout)
 
 ## Project Files
-- Schematic (.kicad_sch)
-- PCB Layout (.kicad_pcb)
+- Schematic (rechargeable lamp.kicad_sch)
+- PCB Layout (rechargeable lamp.kicad_pcb)
 
 ## Designer
 Ezekiel Ekwam-Bentsil Dadze
